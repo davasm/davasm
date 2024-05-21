@@ -6,7 +6,7 @@
   I'm Brazilian, 22 years old, and a <strong>Computer Science student</strong>.
 </p>
 <p align="left">
-  Starting Golang studies, already learning C language and some HTML/CSS. Always trying to improve my skills and abilities. Looking for experience to expand my possibilities. Also interested in Amazon AWS, Linux, cloud services, and a DevOps Engineer career.
+  Starting Golang studies, already learning C language and some HTML/CSS. Always trying to improve my skills. Looking for experience to expand my possibilities. Also interested in Amazon AWS, Linux, cloud services, and a DevOps Engineer career.
 </p>
 
 <h2 align="left">
