@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="left">
- 🦄 Stacks:
+  Stacks:
 </h2>
 
 ## Technologies I use
@@ -32,14 +32,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=davasm&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=davasm&theme=dark&include_all_commits=true&count_private=true"
         alt="Github stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=davasm&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=davasm&theme=dark&include_all_commits=true&count_private=true&layout=compact"
         alt="Top languages"
       />
     </td>
@@ -48,7 +48,7 @@
     <td colspan="2">
       <img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=davasm&theme=dark&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=davasm&theme=dark"
         alt="GitHub streak"
       />
     </td>
@@ -64,7 +64,7 @@
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=davasm&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=davasm&column=8&theme=darkhub&no-bg=true"
     />
   </a>
 </p>
