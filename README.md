@@ -16,11 +16,11 @@ Iniciating Golang studies, already learning C language and some HTML/CSS. Always
 
 ## Tecnologias que uso
 
-![C Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-![HTML Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-![CSS Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
-![Go Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)
-![AWS Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Logo" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go Logo" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Logo" width="50" height="50">
 
 
 
