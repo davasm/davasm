@@ -14,6 +14,8 @@ Iniciating Golang studies, already learning C language and some HTML/CSS. Always
 
 
 
+## Tecnologias que uso
+
 ![C Logo](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/file_type_c.svg)
 ![HTML Logo](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/file_type_html.svg)
 ![CSS Logo](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/file_type_css.svg)
@@ -31,7 +33,7 @@ Iniciating Golang studies, already learning C language and some HTML/CSS. Always
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Pauloricardo2019&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=davasm&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github stats"
       />
     </td>
