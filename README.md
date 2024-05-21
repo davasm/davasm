@@ -3,36 +3,30 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  I'm brazilian, 22 years old and <strong>Computer Science student</strong>.
-
-Iniciating Golang studies, already learning C language and some HTML/CSS. Always trying to improve my skills and habilities. Looking for experience to expand my possibilities. Also interested in Amazon AWS, Linux, Cloud services, Dev-Ops Engineer career.
-
+  Sou brasileiro, tenho 22 anos e sou <strong>estudante de Ciência da Computação</strong>.
+</p>
+<p align="left">
+  Iniciando os estudos em Golang, já aprendendo a linguagem C e alguns HTML/CSS. Sempre tentando melhorar minhas habilidades e capacidades. Buscando experiência para expandir minhas possibilidades. Também interessado em Amazon AWS, Linux, serviços de nuvem e carreira de engenheiro DevOps.
+</p>
 
 <h2 align="left">
  🦄 Stacks:
 </h2>
 
-
-
 ## Tecnologias que uso
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Logo" width="50" height="50"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go Logo" width="50" height="50"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Logo" width="50" height="50"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Logo" width="50" height="50"><br>C</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50"><br>HTML</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"><br>CSS</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go Logo" width="50" height="50"><br>Go</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Logo" width="50" height="50"><br>AWS</td>
   </tr>
 </table>
 
-
-
-
-
-
 <br>
-<br>
+
 <table>
   <tr>
     <td>
@@ -46,15 +40,16 @@ Iniciating Golang studies, already learning C language and some HTML/CSS. Always
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=davasm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
+        alt="Linguagens mais usadas"
       />
     </td>
-    <td>
-      <br />
+  </tr>
+  <tr>
+    <td colspan="2">
       <img
-        align="left"
+        align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=davasm&theme=dark&hide_border=false"
-        alt="Github stats"
+        alt="GitHub streak"
       />
     </td>
   </tr>
@@ -65,7 +60,7 @@ Iniciating Golang studies, already learning C language and some HTML/CSS. Always
 <p align="center">
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
+    title="Repositório de troféus"
   >
     <img
       width="800"
@@ -81,6 +76,6 @@ Iniciating Golang studies, already learning C language and some HTML/CSS. Always
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/davasm/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
+    alt="Contador de visitantes no perfil"
   />
 </p>
