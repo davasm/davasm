@@ -16,11 +16,11 @@ Iniciating Golang studies, already learning C language and some HTML/CSS. Always
 
 ## Tecnologias que uso
 
-![C Logo](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/file_type_c.svg)
-![HTML Logo](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/file_type_html.svg)
-![CSS Logo](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/file_type_css.svg)
-![Go Logo](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/file_type_go.svg)
-![AWS Logo](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder_type_aws.svg)
+![C Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+![HTML Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+![Go Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)
+![AWS Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg)
 
 
 
