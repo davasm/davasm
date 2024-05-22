@@ -1,60 +1,59 @@
-## Hello, world! My name is <strong>Davi Soares</strong>! 👋
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
-<p align="left"> 
-  I'm Brazilian, 22 years old, and a <strong>Computer Science student</strong>.
-</p>
-<p align="left">
-  Starting Golang studies, already learning C language and some HTML/CSS. Always trying to improve my skills. Looking for experience to expand my possibilities. Also interested in Amazon AWS, Linux, cloud services, and a DevOps Engineer career.
-</p>
-<br>
-<h2 align="left">
-  Stacks:
-</h2>
+## Olá, meu nome é Davi Soares!
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### ⚙️ GitHub Analytics
 
-<br>
-<br>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=davasm&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=davasm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=davasm&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
-<img
-  align="left"
-  src="https://github-readme-stats.vercel.app/api?username=davasm&theme=dark&include_all_commits=true&count_private=true"
-  alt="Github stats"
-/>
+--- 
 
-<img
-  align="left"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davasm&theme=dark&include_all_commits=true&count_private=true&layout=compact"
-  alt="Top languages"
-/>
-
-<img
-  align="center"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=davasm&theme=dark"
-  alt="GitHub streak"
-/>
+### 🏆 GitHub Profile Trophy
 
 <p align="center">
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
-    title="Trophy repository"
+    title="repositório de troféus"
   >
-    <br>
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=davasm&column=8&theme=darkhub&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=davasm&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
+
+---
+
 <div align="center">
-  <h3><b>Profile Visitor Count</b></h3>
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
+
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/davasm/count.svg"
-    alt="Profile visitor count"
+    alt="Número de visitantes no perfil"
   />
 </p>
