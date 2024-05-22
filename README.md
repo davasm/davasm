@@ -50,6 +50,7 @@
     href="https://github.com/ryo-ma/github-profile-trophy"
     title="Trophy repository"
   >
+    <br>
     <img
       width="800"
       src="https://github-profile-trophy.vercel.app/?username=davasm&column=8&theme=darkhub&no-bg=true"
