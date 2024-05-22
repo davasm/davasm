@@ -35,6 +35,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davasm&theme=dracula&show_icons=true" />
 </a>
 
+[![davasm](https://github-readme-stats.vercel.app/api/top-langs/?username=davasm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Onde me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-davisrmcd@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
