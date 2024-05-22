@@ -1,59 +1,32 @@
-## Olá, meu nome é Davi Soares!
+![](https://komarev.com/ghpvc/?username=davasm&color=006bed)
 
-### ⚙️ GitHub Analytics
+## Sobre mim
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=davasm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=davasm&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+- 🤔 Explorando novas tecnologias e buscando aumentar meu conhecimento.
+- 🎓 Estudando Ciência da Computação na UFPI.
 
---- 
 
-### 🏆 GitHub Profile Trophy
+## Minhas Skills
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=davasm&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+**Aprendendo**
 
----
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+**Tenho Interesse**
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/davasm/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/davasm" title="Perfil do Davi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davasm&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Gmail Badge](https://img.shields.io/badge/-davisrmcd@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
