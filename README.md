@@ -32,7 +32,9 @@
 <br/>
 
 <a href="https://github.com/davasm" title="Perfil do Davi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davasm&theme=dracula&show_icons=true" />
+  
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </a>
 
 [![davasm](https://github-readme-stats.vercel.app/api/top-langs/?username=davasm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
