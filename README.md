@@ -7,7 +7,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=davasm&theme=dark&hide_border=false&include_all_commits=true"
+        [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)
         alt="Github Stats"
       />
     </td>
