@@ -27,6 +27,3 @@ Eu sou estudante de Ciência da Computação e entusiasta em programação. Atua
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/davasm)
 - [Twitter](https://twitter.com/davasm)
-
-## Animação
-![Animacao](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
