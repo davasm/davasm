@@ -1,24 +1,63 @@
-## Davi Soares
-
-👋 Olá, mundo! Meu nome é Davi Soares, brasileiro, 22 anos, estudante de Ciência da Computação.
-
-### Sobre Mim
-Estou começando meus estudos em Golang, já aprendendo linguagem C e HTML/CSS. Sempre buscando melhorar minhas habilidades. Interessado em experiências para expandir minhas possibilidades. Também interessado em Amazon AWS, Linux, serviços de nuvem e uma carreira de engenheiro DevOps.
-
-### Stacks
-| Tecnologias | |
-| --- | --- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Logo" width="40" height="40"> C | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML Logo" width="40" height="40"> HTML |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS Logo" width="40" height="40"> CSS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go Logo" width="40" height="40"> Go |
-
-### Estatísticas do GitHub
-| GitHub Stats | Top Languages | GitHub Streak |
-| --- | --- | --- |
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=davasm&theme=dark&include_all_commits=true&count_private=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davasm&theme=dark&include_all_commits=true&count_private=true&layout=compact) | ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=davasm&theme=dark) |
-
+## Hello, world! My name is <strong>Davi Soares</strong>! 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
+<p align="left"> 
+  I'm Brazilian, 22 years old, and a <strong>Computer Science student</strong>.
+</p>
+<p align="left">
+  Starting Golang studies, already learning C language and some HTML/CSS. Always trying to improve my skills. Looking for experience to expand my possibilities. Also interested in Amazon AWS, Linux, cloud services, and a DevOps Engineer career.
+</p>
+<h2 align="left">
+ 🦄 Stacks:
+</h2>
+## Technologies I use
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=davasm&theme=dark&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=davasm&theme=dark&include_all_commits=true&count_private=true&layout=compact"
+        alt="Top languages"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=davasm&theme=dark"
+        alt="GitHub streak"
+      />
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="Trophy repository"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=davasm&column=8&theme=darkhub&no-bg=true"
+    />
+  </a>
+</p>
 <div align="center">
-  <h3><b>Contador de Visitas</b></h3>
+  <h3><b>Profile Visitor Count</b></h3>
 </div>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/davasm/count.svg" alt="Profile visitor count" />
+  <img
+    src="https://profile-counter.glitch.me/davasm/count.svg"
+    alt="Profile visitor count"
+  />
 </p>
