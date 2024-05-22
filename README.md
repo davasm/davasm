@@ -7,9 +7,9 @@
   Starting Golang studies, already learning C language and some HTML/CSS. Always trying to improve my skills. Looking for experience to expand my possibilities. Also interested in Amazon AWS, Linux, cloud services, and a DevOps Engineer career.
 </p>
 <h2 align="left">
- 🦄 Stacks:
+  Stacks:
 </h2>
-## Technologies I use
+
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
