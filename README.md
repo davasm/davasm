@@ -5,8 +5,10 @@
 - 🤔 Explorando novas tecnologias e buscando aumentar meu conhecimento.
 - 🎓 Estudando Ciência da Computação na UFPI.
 
+<br>
 
 ## Minhas Skills
+
 
 **Aprendendo**
 
