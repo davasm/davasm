@@ -9,7 +9,6 @@
 
 ## Minhas Skills
 
-
 **Aprendendo**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,12 +16,10 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-
 **Tenho Interesse**
 
 ![AMAZON AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-
 
 **Ferramentas de desenvolvimento**
 
@@ -33,7 +30,6 @@
 <a href="https://github.com/davasm" title="Perfil do Davi">
   
 </a>
-
 
 ## Onde me encontrar
 
