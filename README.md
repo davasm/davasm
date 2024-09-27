@@ -32,8 +32,6 @@
 
 <a href="https://github.com/davasm" title="Perfil do Davi">
   
-
-
 </a>
 
 
