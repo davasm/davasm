@@ -5,20 +5,14 @@ Bem-vindo ao meu perfil do GitHub! Aqui estão algumas das tecnologias que eu ut
 
 ## Linguagens de Programação
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![Go](https://upload.wikimedia.org/wikipedia/commons/3/3c/Golang_logo.svg)
+![Python](https://www.python.org/community/logos/python-logo.png)
+![Go](https://golang.org/doc/gopher/gopher.png)
 ![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Programming_Language.svg)
-![Java](https://upload.wikimedia.org/wikipedia/images/1/18/Java_logo_and_wordmark.svg)
+![Java](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_and_wordmark.svg)
 
 ## Sistema Operacional
 
 ![Linux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.png)
-
-## Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=davasm&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davasm&theme=radical)
-
 ## Sobre Mim
 
 Sou estudante de Ciência da Computação e apaixonado por programação e tecnologia. Atualmente, estou focado em aprender novas linguagens e ferramentas, incluindo Python, Go, C e Java.
