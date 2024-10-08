@@ -1,35 +1,29 @@
 ![](https://komarev.com/ghpvc/?username=davasm&color=006bed)
+# Olá, eu sou Davi Soares 👋
 
-## Sobre mim
+Bem-vindo ao meu perfil do GitHub! Aqui estão algumas das tecnologias que eu utilizo:
 
-- 🤔 Explorando novas tecnologias e buscando aumentar meu conhecimento.
-- 🎓 Estudando Ciência da Computação na UFPI.
+## Linguagens de Programação
 
-<br>
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![Go](https://upload.wikimedia.org/wikipedia/commons/3/3c/Golang_logo.svg)
+![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Programming_Language.svg)
+![Java](https://upload.wikimedia.org/wikipedia/images/1/18/Java_logo_and_wordmark.svg)
 
-## Minhas Skills
+## Sistema Operacional
 
-**Aprendendo**
+![Linux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.png)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+## Estatísticas
 
-**Tenho Interesse**
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=davasm&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davasm&theme=radical)
 
-![AMAZON AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+## Sobre Mim
 
-**Ferramentas de desenvolvimento**
+Sou estudante de Ciência da Computação e apaixonado por programação e tecnologia. Atualmente, estou focado em aprender novas linguagens e ferramentas, incluindo Python, Go, C e Java.
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<br/>
-
-<a href="https://github.com/davasm" title="Perfil do Davi">
-  
-</a>
+Sinta-se à vontade para explorar e contribuir!
 
 ## Onde me encontrar
 
