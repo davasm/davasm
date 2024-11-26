@@ -1,8 +1,6 @@
 # 💻 **Davi Soares de Macedo**  
 > *"Transformando ideias em código. Explorando a simplicidade e a eficiência."*  
 
-![banner](https://via.placeholder.com/800x200.png?text=Bem-vindo+ao+meu+GitHub%21) <!-- Substitua pela URL do seu banner personalizado -->
-
 ## 🧑‍🚀 **Sobre mim**  
 🎓 **Estudante de Ciência da Computação** | **22 anos**  
 🌍 **Brasil**  
@@ -30,7 +28,6 @@
 ---
 
 ## 🌟 **Entre em Contato**  
-🐙 **GitHub**: [davasm](https://github.com/davasm)  
 💼 **LinkedIn**: [Davi Soares de Macedo](www.linkedin.com/in/davi-soares-de-macedo-4a7839212)  
 
 
