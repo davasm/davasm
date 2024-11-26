@@ -1,5 +1,4 @@
-# 💻 **Davi Soares de Macedo**  
-> *"Transformando ideias em código. Explorando a simplicidade e a eficiência."*  
+# 💻 **Davi Soares de Macedo**   
 
 🎓 **Estudante de Ciência da Computação** | 🌍 **Brasil**  
 🚀 Focado em **Desenvolvimento Web, Python, Golang e Linux**  
@@ -37,8 +36,7 @@
 💼 **LinkedIn**: [Davi Soares de Macedo](https://www.linkedin.com/in/davi-soares-de-macedo-4a7839212)  
 
 ---
-
-> *"A programação não é apenas código; é a ponte entre sonhos e realidade."*  
+ 
 
 
 
