@@ -2,7 +2,7 @@
 > *"Transformando ideias em código. Explorando a simplicidade e a eficiência."*  
 
 🎓 **Estudante de Ciência da Computação** | 🌍 **Brasil**  
-🚀 Focado em **Desenvolvimento Web, Golang e Linux**  
+🚀 Focado em **Desenvolvimento Web, Python, Golang e Linux**  
 
 ---
 
