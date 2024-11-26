@@ -1,35 +1,44 @@
 # 💻 **Davi Soares de Macedo**  
 > *"Transformando ideias em código. Explorando a simplicidade e a eficiência."*  
 
-## 🧑‍🚀 **Sobre mim**  
-🎓 **Estudante de Ciência da Computação** | **22 anos**  
-🌍 **Brasil**  
+🎓 **Estudante de Ciência da Computação** | 🌍 **Brasil**  
 🚀 Focado em **Desenvolvimento Web, Golang e Linux**  
-🎮 Criador de **jogos simples em Python** para treinar orientação a objetos  
-✍️ Organizador dos estudos no **Notion**, usando para anotações detalhadas e eficientes.  
+
 ---
+
 ## 🛠 **Minhas Stacks e Ferramentas Favoritas**  
 ### **Linguagens**  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)  
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" width="50" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50" />
+</p>
 
 ### **Ferramentas e Tecnologias**  
-![AWS](https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)  
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="50" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="50" height="50" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/notion.png" alt="Notion" width="50" height="50" />
+</p>
 
+---
 
 ## 📈 **Estatísticas do GitHub**  
-![Davi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davasm&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davasm&layout=compact&theme=dracula)  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=davasm&show_icons=true&theme=dracula" alt="Davi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davasm&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🌟 **Entre em Contato**  
-💼 **LinkedIn**: [Davi Soares de Macedo](www.linkedin.com/in/davi-soares-de-macedo-4a7839212)  
+💼 **LinkedIn**: [Davi Soares de Macedo](https://www.linkedin.com/in/davi-soares-de-macedo-4a7839212)  
 
+---
+
+> *"A programação não é apenas código; é a ponte entre sonhos e realidade."*  
 
 
 
