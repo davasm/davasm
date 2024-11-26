@@ -1,25 +1,114 @@
-![](https://komarev.com/ghpvc/?username=davasm&color=006bed)
-# Olá, eu sou Davi Soares 👋
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Davi Soares de Macedo</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #1E1E2F;
+            color: #F5F5F5;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: linear-gradient(90deg, #3A3A55, #212133);
+            color: #FFF;
+            text-align: center;
+            padding: 20px 0;
+        }
+        header h1 {
+            font-size: 3rem;
+        }
+        header p {
+            font-style: italic;
+        }
+        section {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #28293E;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        h2 {
+            color: #FFC857;
+            border-bottom: 2px solid #FFC857;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #33334D;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+            display: flex;
+            align-items: center;
+        }
+        ul li img {
+            width: 24px;
+            height: 24px;
+            margin-right: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            color: #AAA;
+            font-size: 0.9rem;
+            margin-top: 20px;
+        }
+        a {
+            color: #FFC857;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Davi Soares de Macedo</h1>
+        <p>"Transformando ideias em código. Explorando a simplicidade e a eficiência."</p>
+    </header>
 
-Bem-vindo ao meu perfil do GitHub! Aqui estão algumas das tecnologias que eu utilizo:
+    <section>
+        <h2>Sobre mim</h2>
+        <p>🎓 Estudante de Ciência da Computação | 22 anos</p>
+        <p>🚀 Focado em Desenvolvimento Web, Golang, AWS e Linux</p>
+        <p>🎮 Criador de jogos simples em Python para consolidar conceitos de orientação a objetos</p>
+        <p>✍️ Organizador dos estudos no Notion</p>
+    </section>
 
-## Linguagens de Programação
+    <section>
+        <h2>Minhas Stacks e Ferramentas Favoritas</h2>
+        <ul>
+            <li><img src="https://img.icons8.com/color/48/000000/c-programming.png"/>C</li>
+            <li><img src="https://img.icons8.com/color/48/000000/golang.png"/>Golang</li>
+            <li><img src="https://img.icons8.com/color/48/000000/html-5.png"/>HTML5</li>
+            <li><img src="https://img.icons8.com/color/48/000000/css3.png"/>CSS3</li>
+        </ul>
+    </section>
 
+    <section>
+        <h2>Destaques nos Estudos</h2>
+        <p>📂 Implementação de estruturas de dados (pilhas, filas, listas encadeadas).</p>
+        <p>🎮 Desenvolvimento de jogos usando Python.</p>
+        <p>🏗️ Sistemas de controle de estoque e simulação de filas.</p>
+    </section>
 
-![Python](https://www.python.org/community/logos/python-logo.png)
-![Go](https://golang.org/doc/gopher/gopher.png)
-![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Programming_Language.svg)
-![Java](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_and_wordmark.svg)
+    <section>
+        <h2>Entre em Contato</h2>
+        <p>🐙 GitHub: <a href="https://github.com/davasm" target="_blank">davasm</a></p>
+        <p>💼 LinkedIn: <a href="https://linkedin.com" target="_blank">Seu Perfil Aqui</a></p>
+    </section>
 
-## Sistema Operacional
-
-![Linux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.png)
-## Sobre Mim
-
-Sou estudante de Ciência da Computação e apaixonado por programação e tecnologia. Atualmente, estou focado em aprender novas linguagens e ferramentas, incluindo Python, Go, C e Java.
-
-Sinta-se à vontade para explorar e contribuir!
-
-## Onde me encontrar
-
-[![Gmail Badge](https://img.shields.io/badge/-davisrmcd@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+    <footer>
+        <p>"A programação não é apenas código; é a ponte entre sonhos e realidade."</p>
+    </footer>
+</body>
+</html>
