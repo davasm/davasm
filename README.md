@@ -19,7 +19,6 @@
 
 ### **Tools and Technologies**  
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="50" height="50" />
   <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="50" height="50" />
   <img src="https://img.icons8.com/ios-filled/50/000000/notion.png" alt="Notion" width="50" height="50" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50" height="50" />
