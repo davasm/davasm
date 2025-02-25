@@ -1,7 +1,7 @@
 # 💻 **Davi Soares de Macedo**   
 
 🎓 **Computer Science Student** | 🌍 **Brazil**  
-🚀 Focused on **Web Development, Linux, React, TypeScript, TailwindCSS, and Node.js**  
+🚀 Focused on **Web Development, Linux, React, TypeScript, TailwindCSS, and Next.js**  
 
 ---
 
